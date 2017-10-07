@@ -4,6 +4,7 @@
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/index.js" />
         <item url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/animal.js" />
+        <item url="file://$PROJECT_DIR$/dist/server.js" />
         <item url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/sampleCoffee.js" />
         <item url="file://$PROJECT_DIR$/PizzaShopAfterModule3/js/sampleCoffee.js" />
       </sourceFilesUrls>
@@ -11,6 +12,7 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/index.js" />
       <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/animal.js" />
+      <root url="file://$PROJECT_DIR$/dist/server.js" />
       <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/sampleCoffee.js" />
       <root url="file://$PROJECT_DIR$/PizzaShopAfterModule3/js/sampleCoffee.js" />
     </CLASSES>
