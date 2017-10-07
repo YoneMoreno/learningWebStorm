@@ -20,4 +20,10 @@
            return false;
        });
     });
+
+    var dog = new Animal();
+    dog.name = "Lucky";
+    dog.legCount = 3;
+    dog.feed("Fish");
+
 })();
