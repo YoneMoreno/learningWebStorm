@@ -2,27 +2,23 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/animal.js" />
         <item url="file://$PROJECT_DIR$/dist/server.js" />
         <item url="file://$PROJECT_DIR$/dist/public/lib/underscore/underscore.js" />
-        <item url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/sampleCoffee.js" />
-        <item url="file://$PROJECT_DIR$/public/js/sampleCoffee.js" />
         <item url="file://$PROJECT_DIR$/dist/public/lib/underscore/underscore-min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/sampleCoffee.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/index.js" />
       <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/animal.js" />
-      <root url="file://$PROJECT_DIR$/dist/server.js" />
       <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/sampleCoffee.js" />
       <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/index.js" />
       <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/animal.js" />
+      <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/sampleCoffee.js" />
       <root url="file://$PROJECT_DIR$/dist/server.js" />
       <root url="file://$PROJECT_DIR$/dist/public/lib/underscore/underscore.js" />
-      <root url="file://$PROJECT_DIR$/dist/PizzaShopAfterModule3/js/sampleCoffee.js" />
-      <root url="file://$PROJECT_DIR$/public/js/sampleCoffee.js" />
       <root url="file://$PROJECT_DIR$/dist/public/lib/underscore/underscore-min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/sampleCoffee.js" />
     </CLASSES>
     <SOURCES />
   </library>

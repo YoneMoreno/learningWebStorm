@@ -1,0 +1,23 @@
+{
+  "name": "before",
+  "version": "1.0.0",
+  "description": "Learning WS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoneMoreno/learningWebStorm.git"
+  },
+  "author": "Yone Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoneMoreno/learningWebStorm/issues"
+  },
+  "homepage": "https://github.com/YoneMoreno/learningWebStorm#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
