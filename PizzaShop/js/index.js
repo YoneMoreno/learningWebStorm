@@ -11,7 +11,7 @@
         var size = parameters.size;
         var crust = parameters.crust;
         var topping = parameters.topping;
-        alert("not implemented");
+        alert("not implemented")
     }
 
     $(document).ready(function () {
